@@ -4,5 +4,25 @@
 	ls -l  -    it is used to go a particular file
 	ls -d  -    it is used to go a particular dierectory
 	ls -i  -    it shows the reference id of the all files,directories,applications
+	
+	Ways to create a files, directories
+	
+	FOR FILES
 
+	. cat > filename
+
+	. vi filename
+
+	. touch filename
+
+	. touch f1 f2 f3  - to create a multiple files
+
+	FOR DIRECTORIES 
 	  
+	. mkdir filename
+
+	. mkdir f1 f2 f3   - to create multiple directories
+
+	. mkdir -p school/classes/students/study
+
+
