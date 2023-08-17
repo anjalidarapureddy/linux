@@ -1,0 +1,4 @@
+head -n filename
+tail -n filename
+sort filename
+sed 's/oldname/newname/g' filename
