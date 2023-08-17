@@ -15,14 +15,24 @@
 
 	. touch filename
 
-	. touch f1 f2 f3  - to create a multiple files
+	. touch f1 f2 f3        - to create a multiple files
 
 	FOR DIRECTORIES 
 	  
 	. mkdir filename
 
-	. mkdir f1 f2 f3   - to create multiple directories
+	. mkdir f1 f2 f3        - to create multiple directories
 
 	. mkdir -p school/classes/students/study
+
+	DELETE THE FILES 
+
+	. rm filename
+
+	. rm f1 f2 f3           - to del multiple files
+	 
+	. rmdir filename        -to del empty directory
+
+	. rm -rf directoryname  - to del nonempty directory 
 
 
