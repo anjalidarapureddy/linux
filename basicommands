@@ -1,0 +1,8 @@
+ 	pwd    -    it shows current path
+	ls     -    it shows all the files
+	ls -a  -    it shows all files including hidden files also
+	ls -l  -    it is used to go a particular file
+	ls -d  -    it is used to go a particular dierectory
+	ls -i  -    it shows the reference id of the all files,directories,applications
+
+	  
